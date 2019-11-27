@@ -1,2 +1,1 @@
-# pirate-talk-translator
-Java program translates English words to pirate speak
+Java tetris with clever brain, lame brain,and code tests
